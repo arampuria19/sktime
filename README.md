@@ -6,7 +6,7 @@
 
 :rocket: **Version 0.13.2 out now!** [Check out the release notes here](https://www.sktime.org/en/latest/changelog.html).
 
-sktime is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks. Currently, this includes time series classification, regression, clustering, annotation and forecasting. It comes with [time series algorithms](https://www.sktime.org/en/stable/estimator_overview.html) and [scikit-learn] compatible tools to build, tune and validate time series models.
+Sktime is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks. Currently, this includes time series classification, regression, clustering, annotation and forecasting. It comes with [time series algorithms](https://www.sktime.org/en/stable/estimator_overview.html) and [scikit-learn] compatible tools to build, tune and validate time series models.
 
 [scikit-learn]: https://scikit-learn.org/stable/
 

@@ -1796,6 +1796,14 @@
         "ideas"
       ]
     },
+    {
+      "login": "arampuria19",
+      "name": "Akshat Rampuria",
+      "profile": "https://github.com/arampuria19",
+      "contributions": [
+        "doc"
+      ]
+    },
   ],
   "projectName": "sktime",
   "projectOwner": "alan-turing-institute",

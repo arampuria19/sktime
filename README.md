@@ -194,10 +194,10 @@ There are many ways to join the sktime community. We follow the [all-contributor
 
 ## :bulb: Project vision
 
-* **by the community, for the community** -- developed by a friendly and collaborative community.
-* the **right tool for the right task** -- helping users to diagnose their learning problem and suitable scientific model types.
-* **embedded in state-of-art ecosystems** and **provider of interoperable interfaces** -- interoperable with [scikit-learn], [statsmodels], [tsfresh], and other community favourites.
-* **rich model composition and reduction functionality** -- build tuning and feature extraction pipelines, solve forecasting tasks with [scikit-learn] regressors.
-* **clean, descriptive specification syntax** -- based on modern object-oriented design principles for data science.
-* **fair model assessment and benchmarking** -- build your models, inspect your models, check your models, avoid pitfalls.
-* **easily extensible** -- easy extension templates to add your own algorithms compatible with sktime's API.
+* **By the community, for the community** -- developed by a friendly and collaborative community.
+* The **right tool for the right task** -- helping users to diagnose their learning problem and suitable scientific model types.
+* **Embedded in state-of-art ecosystems** and **provider of interoperable interfaces** -- interoperable with [scikit-learn], [statsmodels], [tsfresh], and other community favourites.
+* **Rich model composition and reduction functionality** -- build tuning and feature extraction pipelines, solve forecasting tasks with [scikit-learn] regressors.
+* **Clean, descriptive specification syntax** -- based on modern object-oriented design principles for data science.
+* **Fair model assessment and benchmarking** -- build your models, inspect your models, check your models, avoid pitfalls.
+* **Easily extensible** -- easy extension templates to add your own algorithms compatible with sktime's API.
